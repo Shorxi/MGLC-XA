@@ -1,4 +1,4 @@
-# TASK: MGLC-XA Partner Outreach Package  
+# MGLC-XA Partner Outreach Package  
 **Status:** Completed  
 **Version:** 1.0  
 **Maintainer:** Emanuel Schaaf  
