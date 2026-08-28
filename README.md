@@ -1,3 +1,6 @@
+<a href="https://github.com/Shorxi/MGLC-XA/blob/main/MGLC-XA_Technical_Specification_Pitch.md">
+  <img width="842" height="469" alt="MGLC-XA_Technical_Specification-01" src="https://github.com/user-attachments/assets/5d9e72d7-a490-4f5b-a0eb-ab02340d70f2" />
+</a>
 
 - [MGLC-XA Technical Specification Pitch](MGLC-XA_Technical_Specification_Pitch.md)
 
