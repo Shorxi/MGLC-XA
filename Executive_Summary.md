@@ -9,20 +9,18 @@
 ---
 
 ## 1. Objective  
-Provide a high-level, partner-ready strategic overview of the MGLC-XA architecture, mission, differentiators, TRL status, and market positioning.  
-This document serves as the primary introduction for researchers, contributors, and strategic partners evaluating the MGLC-XA ecosystem.
+Provide a high-level, partner-ready strategic overview of the MGLC-XA architecture, mission, differentiators, TRL status, and market positioning.
 
 ---
 
 ## 2. Deliverables  
-- Executive Summary (Markdown + PDF)  
+- Executive Summary (Markdown)  
 - Platform overview  
 - Key differentiators  
 - Performance metrics  
 - TRL roadmap  
 - Market opportunity  
 - Partnership call-to-action  
-- Final formatted document for public distribution  
 
 ---
 
@@ -31,18 +29,17 @@ This task covers the creation, refinement, and publication of the Executive Summ
 
 ---
 
-## 4. Document Link  
-- **MGLC-XA Executive Summary (PDF)**  
-- **MGLC-XA Executive Summary (Markdown)**
+## 4. Document Location  
+The Executive Summary is stored directly in the repository as:  
+`MGLC-XA Executive Summary.md`
 
 ---
 
 ## 5. Status  
-**Completed — Version 1.0 (August 2026)**  
-Ready for public use under the open-source license.
+**Completed — Version 1.0 (August 2026)**
 
 ---
 
 ## 6. Notes  
-This document is part of the MGLC-XA Open Origin Architecture and is intended for transparent scientific collaboration, sovereign hardware development, and strategic evaluation.
+This document is part of the MGLC-XA Open Origin Architecture and is intended for transparent scientific collaboration and sovereign hardware development.
 
