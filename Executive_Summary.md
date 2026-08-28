@@ -1,4 +1,4 @@
-# TASK: MGLC-XA Executive Summary  
+# MGLC-XA Executive Summary  
 **Status:** Completed  
 **Version:** 1.0  
 **Maintainer:** Emanuel Schaaf  
