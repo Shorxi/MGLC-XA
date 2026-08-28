@@ -31,7 +31,7 @@ The MGLC-XA introduces a fundamental paradigm shift by bypassing the Von Neumann
 
 ---
 
-[Watch the video here](https://drive.google.com/drive/folders/1zgaThbaa2q3rbad8PUJC3rLbnJR49ptn?usp=sharing)
+[Watch the video here](https://drive.google.com/file/d/1KA1GSrnflnUvMe2IQ11i6gEyQ0iji5hx/view?usp=sharing)
 
 ---
 
