@@ -1,0 +1,11 @@
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-01" src="https://github.com/user-attachments/assets/5d9e72d7-a490-4f5b-a0eb-ab02340d70f2" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-02" src="https://github.com/user-attachments/assets/83f47c68-85cd-4219-88d1-16d105141bc6" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-03" src="https://github.com/user-attachments/assets/d2a868d6-44a8-441d-aa1a-93fb9f53bcb1" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-04" src="https://github.com/user-attachments/assets/686199ea-3bac-4c7e-b9e3-6e4e3f2c1fa3" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-05" src="https://github.com/user-attachments/assets/11cc25a6-aeda-4ca6-ad52-7247b3a34ca4" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-06" src="https://github.com/user-attachments/assets/187d6597-3124-4d0a-914c-ba051f3253cd" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-07" src="https://github.com/user-attachments/assets/0f81580e-be5f-4da4-8026-08cde865fd9d" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-08" src="https://github.com/user-attachments/assets/e5d29987-63f4-45e5-8ea9-32268c623240" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-09" src="https://github.com/user-attachments/assets/9ba7ba22-0230-4646-9072-45d7063ebc5c" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-10" src="https://github.com/user-attachments/assets/86c31066-eb82-4ff7-b7bd-9130145c2052" />
+<img width="842" height="469" alt="MGLC-XA_Technical_Specification-11" src="https://github.com/user-attachments/assets/29f93d85-9b6d-416c-86c6-3801cc27b85c" />
