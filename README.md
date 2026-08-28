@@ -1,3 +1,6 @@
+
+- [MGLC-XA Technical Specification Pitch](MGLC-XA_Technical_Specification_Pitch.md)
+
 # MGLC-XA
 
 ## Multi-Layer Graph-Logic Controller eXtended Architecture
