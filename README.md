@@ -14,13 +14,9 @@ Technical Specification, Architecture Blueprint, and FPGA-Validated Hardware Con
 
 ## Repository Structure
 
-- [Executive Summary](Executive_Summary.md)
-- [MGLC-XA Technical Specification (PDF)](MGLC-XA_Technical_Specification.pdf)
-- [MGLC-XA Technical Specification Pitch (MD)](MGLC-XA_Technical_Specification_Pitch.md)
-- [MGLC-XA Dossier (PDF)](MGLC-XA%20Dossier.pdf)
-- [MGLC-XA Architecture Review Checklist (PDF)](MGLC-XA%20Architecture%20Review%20Checklist.pdf)
-- [Partner Outreach Package](Partner_Outreach.md)
-- [NDA Template](NDA_Template.md)
+- [MGLC-XA_Technical_Specification.pdf](MGLC-XA_Technical_Specification.pdf)
+- [MGLC-XA Dossier.pdf](MGLC-XA%20Dossier.pdf)
+- [MGLC-XA Architecture Review Checklist.pdf](MGLC-XA%20Architecture%20Review%20Checklist.pdf)
 - [License](License.md)
 - [Contact](Contact.md)
 
